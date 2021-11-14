@@ -1,0 +1,22 @@
+.section{
+    text-align: justify;
+}
+.sub_section{
+    margin-left: 5%;
+    text-align: justify;
+    
+}
+* h2, h3{
+    margin: left;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.tab1{
+    margin-left: 5%;
+    text-align: justify;
+}
+.tab2{
+    margin-left: 10%;
+    text-align: justify;
+}
